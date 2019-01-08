@@ -39,4 +39,4 @@ Mit live-projektbasierten codeanalysemodulen in Visual Studio können die API-Au
 - [Tutorial: Schreiben Sie Ihre erste Lösung für Analyzer und code](/dotnet/csharp/roslyn-sdk/tutorials/how-to-write-csharp-analyzer-code-fix)
 - [.NET Compiler Platform-Version-Paketverweis](roslyn-version-support.md)
 - [Weitere-Dokumentation auf der GitHub-OSS-Website](https://github.com/dotnet/roslyn/tree/master/docs/analyzers)
-- [FxCop-Regeln, die mit Roslyn-Analysetools auf GitHub implementiert](https://github.com/dotnet/roslyn/tree/master/src/Diagnostics/FxCop)
+- [FxCop-Regeln, die mit Roslyn-Analysetools auf GitHub implementiert](http://roslynanalyzersstatus.azurewebsites.net/)
